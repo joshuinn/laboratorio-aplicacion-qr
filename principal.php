@@ -5,6 +5,7 @@
 	<title>Toma de asistencia</title>
 	<link rel="stylesheet" href="./css/estilos.css">
     <link rel="stylesheet" href="./css/bootstrap.min.css">
+
 </head>
 <body>
 	<header class="header">
